@@ -1,5 +1,6 @@
 # todo-mvc-ts
 TypeScript MVC App with mocha and webpack
+@author: [Roshada A](roshadaafzal.tech)
 
 ## Quick Start
 ``` node
